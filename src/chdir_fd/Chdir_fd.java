@@ -24,7 +24,7 @@ public class Chdir_fd {
             System.out.println("");
         }
         else {
-            System.out.println("I don't understand you. Please enter command..");
+            System.out.println("I don't understand you. Please enter the command..");
         }
     }    
 }
